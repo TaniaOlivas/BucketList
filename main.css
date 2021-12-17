@@ -1,0 +1,35 @@
+.center {
+    text-align: center;
+}
+
+#header {
+    border-style: double;
+}
+
+#introduction {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.travel {
+    background-color: beige;
+    width: 250px;
+    height: 250px;
+    float: left;
+    margin: 30px;
+}
+
+#accomplishments {
+    background: peachpuff;
+    width: 250px;
+    height: 250px;
+    float: left;
+    margin: 30px;
+}
+
+.experiences {
+    background-color: lightblue;
+    width: 250px;
+    height: 250px;
+    float: left;
+    margin: 30px;
+}
